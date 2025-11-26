@@ -1,19 +1,4 @@
-#  Olá, eu sou o Patrick!
-<p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
-</p>
 
-## Sobre mim
-
-- 🖥️
-- 🎓 Graduando em Ciência de dados pela Uniamérica
-- 📚 
-- 🌍 
-
-
----
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickCosta-dev/PatrickCosta-dev/output/pacman-contribution-graph-dark.svg">
@@ -23,10 +8,10 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,py,cpp,js,docker,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,docker,kubernetes)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,,mysql,postgres,aws,azure)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
@@ -36,19 +21,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
+  Desenvolvedor Full Stack com foco em Backend utilizando Python e C++, com experiência em React para o desenvolvimento de interfaces. Tenho interesse especial em computação em nuvem (AWS e Azure).
 
-
-
-<p align="left">
-
-</p>
-
-<p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 
 </p>
 
 <p align="left">
