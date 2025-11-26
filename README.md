@@ -21,22 +21,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatrickCosta-dev/PatrickCosta-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
----
-
-
-
-## ⭐ GitHub Stats
-<a href="https://github.com/PatrickCosta-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickCosta-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCosta-dev&layout=compact&langs_count=6&theme=radical"/>
-
-## 📚 Meus estudos
-
-
-
-
-
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,py,cpp,js,docker,kubernetes,aws)](https://skillicons.dev)
