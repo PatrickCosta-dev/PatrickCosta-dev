@@ -1,11 +1,4 @@
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickCosta-dev/PatrickCosta-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatrickCosta-dev/PatrickCosta-dev/output/pacman-contribution-graph.svg">
-</picture>
-
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,docker,kubernetes)](https://skillicons.dev)
