@@ -1,7 +1,7 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,cpp,docker,kubernetes)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,aws,azure)](https://skillicons.dev)
